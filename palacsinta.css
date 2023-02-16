@@ -1,0 +1,57 @@
+body {
+    width: auto;
+    margin: 0 auto;
+    background-color: rgb(200, 200, 200);
+    color: rgb(89, 89, 128);
+    max-width: 1000px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    text-transform: uppercase;
+}
+
+/*.kep {
+    float: right;
+    width: auto;
+    max-width: 450px;
+    border: 2px solid blue;
+}*/
+
+.tartalom {
+    float: left;
+    width: auto;
+    max-width: 450px;
+}
+
+.keret {
+    width: auto;
+    margin: 0 auto;
+    max-width: 920px;
+}
+
+img {
+    float: right;
+    width: auto;
+    max-width: 450px;
+    border: 2px solid rgb(89, 89, 128);
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    background-color: blueviolet;
+}
+
+a:hover {
+    color: blueviolet;
+    background-color: yellow;
+}
